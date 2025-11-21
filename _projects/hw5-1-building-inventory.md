@@ -3,6 +3,7 @@ name: Illinois Building Inventory Analysis - HW5.1
 tools: [Python, Altair, Vega-Lite]
 image: assets/pngs/buildings.png
 description: Interactive visualizations exploring Illinois government building acquisitions and characteristics using the state building inventory dataset.
+permalink: /projects/hw5-1-building-inventory/
 custom_js:
   - vega.min
   - vega-lite.min
